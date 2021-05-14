@@ -8,6 +8,8 @@ media
 
 # Backup files # 
 *.bak 
+act.sh
+env.py
 
 # If you are using PyCharm # 
 .idea/**/workspace.xml 
